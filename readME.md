@@ -69,7 +69,7 @@ CREATE TABLE `student_taking_lasson` (
 ```
 
 <p>
-	**Not:** Database myo_ders.sql dosyasında mevcuttur. Veritabanı kullanıcı adı root şifre boş olacak şekilde ayarlanmıştır.
+ <b>Not:</b> Database myo_ders.sql dosyasında mevcuttur. Veritabanı kullanıcı adı root şifre boş olacak şekilde ayarlanmıştır.
 </p>
 
 <h2>Ekran Görüntüleri</h2>
